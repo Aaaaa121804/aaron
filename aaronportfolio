@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel=""stylesheet" href="style.ccs">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aaron's Portfolio</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #ffffff;
+            padding: 1rem;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-content {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        section {
+            margin: 1rem 0;
+        }
+        h2 {
+            background: #eee;
+            padding: 0.5rem;
+            border-left: 5px solid #333;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: unset;
+            bottom: 0;
+            width: 100%;
+        }
+        
+        .socialicons a{
+            text-decoration:  none;
+            padding: 10px;
+            background-color: rgb(226, 226, 226);
+            margin: 10px;
+            border-radius: 50%;
+        }
+        .socialicons a i{
+            font-size: 5em;
+            opacity: 0.9;
+        }
+        .social-icon{
+        color: blue;
+        width: 80%;
+    }
+
+    .Insta{
+        color: rgb(194, 77, 56);
+        width: 80%;
+    }
+
+    .tiktok{
+        color: rgb(0, 0, 0);
+        width: 80%;
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Aaron's Portfolio</h1>
+       
+    </header>
+
+    <div class="container">
+        <div class="main-content">
+            <section id="about">
+                <h2>About Me</h2>
+                <h4>Hello Guyssss! My name is Aaron Christian Fiedalan, 19 Years old, and I am a 3rd Year College taking Bachelor of Science in Computer Engineering at Dr.Yanga's Colleges Inc. I graduated HighSchool and Senior HighSchool at Sto.Nino Academy Bocaue Under the Science, Technology, Engineering, and Mathematics(STEM).I'm currently Residing in Marilao,Bulacan
+                </h4>
+            </section>
+
+            <section id="Hobbies">
+                <h2>Hobbies</h2>
+                <ul>
+                    <h3>►Playing Basketball</h3>
+                    <h3>►Cycling</h3>
+                    <h3>►Playing Online Games</h3>
+                    
+                </ul>
+            </section>
+
+            <section id="Places that I Travelled">
+                <h2>Places that I Travelled</h2>
+                <div>
+                    <ul>
+                    <h3>►Ilocos</h3>
+                   
+                <div>
+                    <h3>►Baguio City</h3>
+                    
+                <div>
+                    <h3>►Dingalan, Aurora</h3>
+                    <div>
+                        <h3>►Infanta, Quezon</h3>
+                       
+                    <div>
+                        <h3>►El Nido, Palawan</h3>
+                        
+                    <div>
+                        <h3>►Puerto Princessa, Palawan</h3>
+                        <div>
+                            <h3>►Boracay Island, Aklan</h3>
+                        </ul>
+                </div>
+            </section>
+
+            <section id="Social Media Accounts">
+                <h2>Social Media Accounts</h2>
+                <div>
+                    <ul>
+                    <h3>Facebook: @Aaron Christian Fiedalan</h3>
+                   
+                <div>
+                    <h3>Instagram: @aaron_fdln</h3>
+                    
+                <div>
+                    <h3>Tiktok: @aaron_cvf</h3>
+                </ul>
+                </div>
+            </section>
+
+            <section id="contact">
+                <h2>Contact</h2>
+                <p>If you would like to get in touch with me, feel free to email me at <a href="fiedalanaaron121804@gmail.com">fiedalanaaron121804@gmail.com</a> 
+                    <a class="mail" href="https://mail.google.com/"  target="_blank">
+                
+                </a>
+                <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+                    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script> .</p>
+                <p>or Call/Text me at <a href="fiedalanaaron121804@gmail.com">09944806127</a>.</p>
+                <p> <a href="fiedalanaaron121804@gmail.com"></a>.</p>
+                <p> <a href="fiedalanaaron121804@gmail.com"></a>.</p>
+                <p> <a href="fiedalanaaron121804@gmail.com"></a>.</p>
+                <p> <a href="fiedalanaaron121804@gmail.com"></a>.</p>
+            </section>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<footer>
+    <p>&copy; 2024 Aaron's Portfolio</p>
+    <div class="socialicons">
+    <a class="social-icon" href="https://www.facebook.com/AARON.FIEDALAN.18/"  target="_blank">
+        <ion-icon name="logo-facebook"></ion-icon> 
+    </a>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script> 
+
+        <a class="Insta" href="https://www.instagram.com/aaron_fdln/"  target="_blank">
+            <ion-icon name="logo-instagram"></ion-icon>
+        </a>
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+            <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+            <a class="tiktok" href="https://www.tiktok.com/@aaron_cvf?is_from_webapp=1&sender_device=pc"  target="_blank">
+                <ion-icon name="logo-tiktok"></ion-icon>
+            </a>
+            <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+                <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>   
+            </div>
+</footer>
+</body>
+</html>
